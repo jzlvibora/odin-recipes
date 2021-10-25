@@ -1,0 +1,14 @@
+body{
+    
+    background-image:url("/home/lawliet/the_odin_project/odin-recipes/homepage.jpg");
+    background-position: center;
+    background-size:cover;
+}
+h1{
+    font-family: 'Flavors', cursive;
+    font-size:50px;
+}
+ul{
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 30px;
+}
